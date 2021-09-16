@@ -1,0 +1,19 @@
+@font-face{
+    font-family: bold;
+    src: url(Montserrat-Bold.otf);
+}
+
+@font-face{
+    font-family: regular;
+    src: url(Montserrat-Regular.otf);
+}
+
+@font-face{
+    font-family: semi;
+    src: url(Montserrat-SemiBold.otf);
+}
+
+@font-face{
+    font-family: light;
+    src: url(Montserrat-Light.otf);
+}
